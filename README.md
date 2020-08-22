@@ -66,3 +66,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## 
+Inspirations for this page was pulled from: https://medium.com/@pdx.lucasm/canvas-with-react-js-32e133c05258 
+
+## palette
+BACKGROUND: #001437
+TEXT: #B8FB3C
+GRADIENT: #5CE5D5 - #7898FB
